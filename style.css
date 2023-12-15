@@ -17,7 +17,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 60px;
+  height: 3.75rem;
   background-color: #26183d;
 }
 
@@ -44,7 +44,7 @@ nav ul li a:hover {
 
 .display_pic {
   border-radius: 50%;
-  margin-top: 1px;
+  margin-top: 0.063rem;
 }
 
 #profile_name {
@@ -59,7 +59,7 @@ header {
 .first_section {
   display: flex;
   justify-content: space-around;
-  margin: 25px 0;
+  margin: 1.563rem 0;
   /* margin-right: auto;
   margin-left: auto; */
 }
@@ -70,10 +70,10 @@ header {
 }
 
 .left_section img {
-  width: 600px;
-  height: 600px;
-  margin-left: 145px;
-  margin-top: 35px;
+  width: 37.5rem;
+  height: 37.5rem;
+  margin-left: 9.063rem;
+  margin-top: 2.188rem;
   border-radius: 50%;
   box-shadow: 5px 5px 20px 1px aliceblue;
 }
@@ -84,14 +84,14 @@ header {
 
 .right_section {
   flex: 0.47;
-  height: 400px;
-  margin-top: 60px;
+  height: 25rem;
+  margin-top: 3.75rem;
   font-size: 2rem;
   font-family: "Roboto", sans-serif;
 }
 
 .right_section p {
-  margin: 30px 0px;
+  margin: 1.875rem 0rem;
 }
 
 .right_section span {
@@ -105,7 +105,7 @@ header {
   color: beige;
   font-weight: 600;
   font-size: larger;
-  margin: 8px 0;
+  margin: 0.5rem 0;
 }
 
 .copyright {
@@ -124,8 +124,8 @@ hr {
   margin-right: auto;
   max-width: 60vw;
   height: 60vh;
-  margin-top: 115px;
-  margin-bottom: 100px;
+  margin-top: 7.188rem;
+  margin-bottom: 6.25rem;
   font-family: "Roboto", sans-serif;
 }
 
@@ -137,7 +137,7 @@ hr {
 } */
 
 .institute h2 {
-  margin-top: 50px;
+  margin-top: 3.125rem;
 }
 
 .institute a {
@@ -158,7 +158,7 @@ hr {
 .contacts {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
+  margin-bottom: 1.875rem;
   background-color: #240841;
   box-shadow: 5px 5px 10px 2px #5a466e;
   display: flex;
@@ -168,11 +168,11 @@ hr {
 }
 
 .contact {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border-left: 3px solid white;
-  border-bottom: 3px solid white;
-  padding: 5px 5px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-left: 0.188rem solid white;
+  border-bottom: 0.188rem solid white;
+  padding: 0.313rem 0.313rem;
 }
 
 .label {
@@ -188,13 +188,13 @@ hr {
   border-radius: 50%;
   box-shadow: -1px 1px 2px 1px aliceblue;
   position: absolute;
-  right: 15px;
-  bottom: 70px;
+  right: 0.938rem;
+  bottom: 4.375rem;
 }
 
 #repl {
   box-shadow: -1px 1px 2px 1px aliceblue;
   position: absolute;
-  bottom: 70px;
-  right: 70px;
+  bottom: 4.375rem;
+  right: 4.375rem;
 }
