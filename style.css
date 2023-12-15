@@ -70,8 +70,8 @@ header {
 }
 
 .left_section img {
-  width: 37.5rem;
-  height: 37.5rem;
+  width: 25.5rem;
+  height: 25.5rem;
   margin-left: 9.063rem;
   margin-top: 2.188rem;
   border-radius: 50%;
@@ -86,7 +86,7 @@ header {
   flex: 0.47;
   height: 25rem;
   margin-top: 3.75rem;
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-family: "Roboto", sans-serif;
 }
 
@@ -189,12 +189,12 @@ hr {
   box-shadow: -1px 1px 2px 1px aliceblue;
   position: absolute;
   right: 0.938rem;
-  bottom: 4.375rem;
+  bottom: 0.375rem;
 }
 
 #repl {
   box-shadow: -1px 1px 2px 1px aliceblue;
   position: absolute;
-  bottom: 4.375rem;
+  bottom: 0.375rem;
   right: 4.375rem;
 }
